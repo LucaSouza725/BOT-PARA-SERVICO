@@ -9,7 +9,7 @@ Descrição do Software
 
 •	O código feito atenderá apenas as necessidades específicas para a empresa que a solicitou;
 
-Descrição do serviço
+Descrição do serviço:
 
 •	O serviço realizado manualmente pelos funcionários consiste em ler uma página ou um arquivo em “PDF”, analisar, e inserir os dados do condomínio no sistema;
 
@@ -17,17 +17,17 @@ Descrição do serviço
 
 •	A inserção dos dados no sistema segue alguns passos simples que estão em ordem cronológica:
 
-o	Login (nome e senha)
-
-o	Acesso a aba “lançamento de débitos”
-
-o	Inserção do código de condomínio (pré-definido pela administração);
-
-o	Selecionar a aba “Insert Record” para gravar uma nova taxa;
-
-o	Inserir novamente o código do condomínio, mês/ano da inserção e data de vencimento;
-
-o	Salva os dados acima e pode dar início a inserção das taxas de condomínio;
+    o	Login (nome e senha)
+    
+    o	Acesso a aba “lançamento de débitos”
+    
+    o	Inserção do código de condomínio (pré-definido pela administração);
+    
+    o	Selecionar a aba “Insert Record” para gravar uma nova taxa;
+    
+    o	Inserir novamente o código do condomínio, mês/ano da inserção e data de vencimento;
+    
+    o	Salva os dados acima e pode dar início a inserção das taxas de condomínio;
 
 
 O sistema então deverá fazer o papel do funcionário de forma mais eficaz e eficiente, tornando menores as possibilidades de erros na hora da inserção e terminando o serviço em tempo consideravelmente menor.
