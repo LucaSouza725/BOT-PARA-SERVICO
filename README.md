@@ -4,7 +4,9 @@ Detalhes sobre o projeto
 Descrição do Software
 
 •	O programa consiste na criação de um bot para automatizar alguns serviços que hoje são feitos manualmente;
+
 •	O código será feito em python e terá uma interface básica para fácil manuseio do usuário;
+
 •	O código feito atenderá apenas as necessidades específicas para a empresa que a solicitou;
 
 Descrição do serviço
